@@ -1,3 +1,7 @@
 [submodule "themes/min_night"]
 	path = themes/min_night
-	url = git@github.com:BadAsstronaut/min_night.git
+	url = https://github.com/BadAsstronaut/min_night.git
+
+[submodule "badasstronaut.github.io"]
+	path = badasstronaut.github.io
+	url = https://github.com/BadAsstronaut/badasstronaut.github.io.git
