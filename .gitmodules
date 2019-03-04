@@ -1,0 +1,3 @@
+[submodule "themes/min_night"]
+	path = themes/min_night
+	url = git@github.com:BadAsstronaut/min_night.git
