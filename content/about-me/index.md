@@ -18,7 +18,7 @@ In 2017, I took a role as a tech lead for Cognizant Accelerator in Boulder. The 
 
 While I enjoyed working at Cognizant, and the culture/people there were amazing, I felt like I wanted to work for a smaller organization and have a larger individual impact. I took a role at a very small start up. I did not work for them for very long, but I got to learn a ton of AWS in those 6 months. We migrated a legacy application from Linode to AWS by containerizing the full stack, we experimented with CI CD using Terraform and Concourse CI (Too complicated for what we were trying to do), scripted secure secret management using Hashicorpt Vault, and scaffolded a new application using .NET Core and React/Redux. I didn't work there long, but I learned a lot in a very short time. 
 
-Through all of this, I hav
+Through all of this, I have gained a decent understanding of Linux/UNIX systems, bash scripting, and solid problem solving methodologies. I see my role as solving problems; frameworks, languages, operating systems, etc., are all simply tools to solve the problems my customers or employers face.
 
 Right now, I am looking for my next great role. I love learning new technologies, and I relish the opportunity to wear a bunch of different hats. I enjoy dev-ops and would like to learn a lot more. 
 
