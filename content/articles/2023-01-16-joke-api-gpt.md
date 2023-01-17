@@ -1,7 +1,7 @@
 ---
 title: Writing a full REST API using Chat GPT
 subtitle: Make your API do more with less time using AI
-date: 2023-01-07
+date: 2023-01-17
 ---
 
 ## Introduction
@@ -20,7 +20,7 @@ Obviously this could be fulfilled in a _lot_ of ways. How we go about providing 
 
 I wanted to experiment with using ChatGPT to generate the scaffolding for my API, so I opted for a Python [FastAPI](https://fastapi.tiangolo.com/) implementation.
 
-The resulting implementation is available on [GitHub]([github](https://github.com/BadAsstronaut/jotd).
+The resulting implementation is available on [GitHub](https://github.com/BadAsstronaut/jotd).
 
 ## Getting started
 

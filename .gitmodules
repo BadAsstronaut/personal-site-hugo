@@ -5,3 +5,6 @@
 [submodule "badasstronaut.github.io"]
 	path = badasstronaut.github.io
 	url = https://github.com/BadAsstronaut/badasstronaut.github.io.git
+[submodule "themes/hugo-theme-m10c"]
+	path = themes/hugo-theme-m10c
+	url = git@github.com:vaga/hugo-theme-m10c.git
