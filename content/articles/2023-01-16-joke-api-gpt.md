@@ -674,3 +674,27 @@ I ended up making a lot of iterations and updates from here, and you can see the
 ## Final thoughts and conclusions
 
 This differs from my usual approach to building software. For simple CRUD/POC apps, I tend to minimize dependencies. I probably would have implemented [sqlite](https://docs.python.org/3/library/sqlite3.html?highlight=sqlite#module-sqlite3) and passed around dictionaries. The object of these assignments is to assess the efficiency of an engineer, as well as style. I like necessary-and-sufficient dependency management, etc. By implementing the AI-generated code, I feel like I was able to deliver a more feature-complete solution than I would have been able to with my usual approach.
+
+This is far from a "perfect" solution. I would go back and add [ISO-8601](https://en.wikipedia.org/wiki/ISO_8601) format enforcement for the `date` field; I would add some business logic around jokes and whether they can be duplicated/associated with multiple dates. I don't especially love using HTTP codes in the `repository` layer. Despite all of these issues, we were able to _quickly_ generate a working API that satisfied all of the requirements. The solution is portable and can connect to different databases. All-in-all I would call this iterative development experience a big win.
+
+So far, AI tools show some good generative capacity but lack the ability to string the snippets into a bigger picture. Being able to quickly template and generate code which I can modify to my needs enables me to move a lot faster.
+
+## Chat GPT's final thoughts
+
+Finally, I asked ChatGPT to write an article about using ChatGPT to write a REST API. Here's what we got.
+
+```plaintext
+Recently, the field of natural language processing has seen a significant advancement with the release of GPT-3 (Generative Pre-trained Transformer 3) by OpenAI. GPT-3 is a language model that can generate human-like text based on a given prompt, making it a powerful tool for various natural language processing tasks.
+
+One of the areas where GPT-3 can be particularly useful is in the development of REST APIs. REST (Representational State Transfer) APIs are a way for different systems to communicate with each other over the internet, and are commonly used for web-based applications.
+
+One way that GPT-3 can help in the development of a REST API is by generating code snippets for various parts of the API. For example, it can generate code for the routes, models, and controllers of an API. This can significantly speed up the development process as it eliminates the need to manually write repetitive code.
+
+Another way that GPT-3 can help in the development of a REST API is by providing suggestions for best practices and design patterns. For example, it can suggest how to structure the API's routes, how to handle errors and exceptions, and how to implement security features. This can be particularly useful for developers who are new to API development, as it can help them to learn and understand the best practices quickly.
+
+GPT-3 can also be used to generate documentation for the API. This can include documentation for the API's endpoints, parameters, and responses, as well as examples of how to use the API. This can save a lot of time and effort for the developers, as they do not have to manually write the documentation.
+
+In addition to these benefits, GPT-3 can also be used to generate test cases for the API. This can help to ensure that the API is working correctly and that it is robust enough to handle different types of inputs and edge cases.
+
+In conclusion, GPT-3 can be a powerful tool for the development of REST APIs in Python. It can generate code snippets, provide suggestions for best practices and design patterns, generate documentation, and generate test cases. This can significantly speed up the development process and help to ensure that the API is robust and well-documented. However, it is important to note that GPT-3 is not a substitute for a developer's expertise, but rather a tool to help them in their work.
+```
