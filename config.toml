@@ -18,6 +18,21 @@ theme = "hugo-theme-m10c"
     highlightLanguages = ["javascript", "bash"]
     css = ["css/custom.css"]
 
+[[Params.social]]
+    icon = "linkedin"
+    url = "https://www.linkedin.com/in/kylemickey/"
+    name = "linkedin"
+
+[[Params.social]]
+    icon = "github"
+    url = "https://github.com/badasstronaut"
+    name = "github"
+
+[[Params.social]]
+    icon = "mail"
+    url = "mailto:kyle.mickey@gmail.com"
+    name = "email"
+
 [[menu.main]]
     url = "/"
     name = "home"
@@ -31,23 +46,6 @@ theme = "hugo-theme-m10c"
     url = "/articles"
     name = "articles"
 
-
-[[menu.icon]]
-    url = "mailto:kyle.mickey@gmail.com"
-    name = "envelope-o"
-    weight = 1
-
-[[menu.icon]]
-    url = "https://github.com/badasstronaut"
-    name = "github"
-    weight = 2
-
-[[menu.icon]]
-    url = "https://www.linkedin.com/in/kylemickey/"
-    name = "linkedin"
-    weight = 4
-
-[[menu.icon]]
-    url = "https://stackoverflow.com/users/4175701/badasstronaut"
-    name = "stack-overflow"
-    weight = 5
+[[menu.main]]
+    url = "/resume"
+    name = "resume"
