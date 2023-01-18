@@ -6,6 +6,10 @@ title: Mickey's Resume
 
 ---
 
+<img src="/img/me_pic.png" style="max-width: 150px; margin: 0 auto;" />
+
+---
+
 ### Cultural values
 
 - Collaboration
@@ -93,7 +97,7 @@ Nov. 2019 - Jan. 2021
 
 ---
 
-**[Spire Digital (now Kin + Carta)](https://www.kinandcarta.com/en-us/)** | Denver, CO
+**[Spire Digital (now Kin + Carta)](https://www.kinandcarta.com/en-us/)** | Denver, CO  
 Tech Lead; Senior Cloud Engineer  
 Mar. 2019  Nov. 2019  
 
@@ -106,7 +110,7 @@ Mar. 2019  Nov. 2019
 
 ---
 
-**[Element3Health](https://element3health.com/)** | Denver, CO
+**[Element3Health](https://element3health.com/)** | Denver, CO  
 Senior Software Engineer  
 Oct. 2018 - Mar. 2019  
 
@@ -117,7 +121,7 @@ Oct. 2018 - Mar. 2019
 
 ---
 
-**[Cognizant](https://www.cognizant.com/us/en)** | Boulder, CO
+**[Cognizant](https://www.cognizant.com/us/en)** | Boulder, CO  
 Software Engineer  
 Aug. 2017 - Oct. 2018  
 
@@ -130,7 +134,7 @@ Aug. 2017 - Oct. 2018
 
 ---
 
-**[IHS Markit (now S&P 500)](https://www.spglobal.com/en/)** | Boulder, CO
+**[IHS Markit (now S&P 500)](https://www.spglobal.com/en/)** | Boulder, CO  
 Software Engineer  
 Jul. 2015 - Aug. 2017  
 
@@ -138,3 +142,48 @@ Jul. 2015 - Aug. 2017
 - Automated CI/CD configuration for new projects
 - Debugged memory leaks in nodejs
 - Worked on .NET 4.5 APIs and MVC projects
+
+---
+
+**[TraceGains](https://www.tracegains.com)** | Westminster, CO  
+Technical Specialist, Customer Success  
+Nov. 2013 - Jul. 2015  
+
+- Automated Excel -> product database upload process via C# .COM add-in invoking web services
+- Wrote the web services integration manual
+- Proposed product features such as a web-based OCR tagging app to reduce overhead
+
+---
+
+**[Apex Hi-Point/Sigma Cubed](https://www.apexpe.com)** | Centennial, CO  
+Technical Specialist/Technical Writer  
+Nov. 2010 - Nov. 2013  
+
+- Wrote about highly technical, scientific concepts in a comprehensible and straightforward way
+- Worked under a scientist with teaching experience in technical writing
+- Coded Office macros to automate/streamline charts and graphics
+- Integrated with other software as-needed
+
+---
+
+### Projects
+
+#### GDPR-Compliant Architecture
+
+GDPR stipulates that end-user data be stored in the European region if the user requests it. To accommodate for this, I helped design geo-isolated, globally integrated software. We architected a data portability service to ensure secure encryption while transferring data across geographic regions.
+
+#### Device Identity and Authentication
+
+I helped architect and build a token-based identity system using mutual TLS. The system enables device identity management and integrates with existing OIDC and SAML systems.
+
+#### Banking Integration and Reporting System
+
+Contract - Built an application which integrates with multiple 3rd party services (e.g., Plaid, SendGrid) and generates monthly, automated CSV reports. The API leverages Swagger/OpenAPI, TypeScript, Express, and Node.
+
+#### Serverless Ticketing System for Cryptocurrency Conference
+
+Contract - Built a serverless API which integrated with a SquareSpace instance to process credit card and cryptocurrency transactions. Used Stripe, Globee, and SendGrid to provide transactional functionality. Open source with permission from client. <https://github.com/BadAsstronaut/crytpo-con-website>
+
+#### Financial Applications
+
+Several groups and I collaborated on innovative finance projects including report generators for investment funds; an options trading screener; quotes and research applications; client-facing REST APIs; data-driven web pages.
