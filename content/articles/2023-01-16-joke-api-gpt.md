@@ -4,6 +4,8 @@ subtitle: Make your API do more with less time using AI
 date: 2023-01-17
 ---
 
+![Robot and Python writing code](/img/chat-gpt-python.png)
+
 ## Introduction
 
 I, like many others in the tech industry, have found myself on the job hunt. Many technical positions require a code sample/project. There are plenty of reasons to wonder how effectively such projects reflect technical talent, or if such projects require an unfair amount of effort from the applicant... but this is not an article about that. Regardless of personal opinions, these projects provide employers a point-of-reference on a candidate's technical approach. How well documented is the code? Is there a pattern of separation-of-concerns? Does the API meet the requirements of the project?
