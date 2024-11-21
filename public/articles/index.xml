@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on Badasstronaut Solutions</title>
+    <link>http://localhost:1313/articles/</link>
+    <description>Recent content in Articles on Badasstronaut Solutions</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/articles/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Technical documentation and architecture -- scaffold first</title>
+      <link>http://localhost:1313/articles/2024-11-21-technical-documentation-and-architecture/</link>
+      <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/articles/2024-11-21-technical-documentation-and-architecture/</guid>
+      <description>&lt;p&gt;I recently stumbled across a &lt;a href=&#34;https://www.youtube.com/watch?v=vtIzMaLkCaM&#34;&gt;University of Chicago Leadership Lab&lt;/a&gt; about the institution&amp;rsquo;s writing program. I think the video is worth a watch &amp;ndash; there are many insights sprinkled throughout. But the thrust of the lecture amounts to: &lt;em&gt;you are not writing in a way that makes your readers care.&lt;/em&gt; This is not your fault, you are very knowledgeable and your ideas are solid!&amp;hellip; &lt;em&gt;but&lt;/em&gt; your coworkers, your product leaders, even your peers, they must work very hard to understand your vision. And I am sorry, but your vision may not be the reader&amp;rsquo;s primary concern. To get your readers to understand and care about your vision, they need to understand how it relates to them.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>It starts with identity</title>
+      <link>http://localhost:1313/articles/2023-11-09-starts-with-identity/</link>
+      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/articles/2023-11-09-starts-with-identity/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s no secret that, as a software professional moves through their career, they often find unique specialization along the way. Serendipitously, my work has required deep experience with &amp;ldquo;identity&amp;rdquo; in software; this includes authentication and authorization. Identity modeling and implementation shows tremendous variety across organizations. While some best-practices do exist, even specification-driven engineering still leaves a surprising amount of ambiguity and inconsistency between implementations (vendor and internal).&lt;/p&gt;&#xA;&lt;p&gt;My first toe into the waters of identity systems was at a small startup in the food/beverage space. At the time, they were using a homespun OAuth 1.0-inspired token exchange for web service/machine-to-machine flows. SAML and SSO were not yet on the radar for this company; user sessions were managed via the web framework used by engineering, and that was that.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Writing a full REST API using Chat GPT</title>
+      <link>http://localhost:1313/articles/2023-01-16-joke-api-gpt/</link>
+      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/articles/2023-01-16-joke-api-gpt/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/chat-gpt-python.png&#34; alt=&#34;Robot and Python writing code&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;I, like many others in the tech industry, have found myself on the job hunt. Many technical positions require a code sample/project. There are plenty of reasons to wonder how effectively such projects reflect technical talent, or if such projects require an unfair amount of effort from the applicant&amp;hellip; but this is not an article about that. Regardless of personal opinions, these projects provide employers a point-of-reference on a candidate&amp;rsquo;s technical approach. How well documented is the code? Is there a pattern of separation-of-concerns? Does the API meet the requirements of the project?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Save Time on Your Job Search with ChatGPT</title>
+      <link>http://localhost:1313/articles/2023-01-07-job-search-gpt/</link>
+      <pubDate>Sat, 07 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/articles/2023-01-07-job-search-gpt/</guid>
+      <description>&lt;h1 id=&#34;save-time-on-your-job-search-with-chatgpt&#34;&gt;Save time on your job search with ChatGPT&lt;/h1&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;DISCLAIMER: Do not use this to lie on resumes or cover letters. ChatGPT is a language model, not a subject matter expert. It&amp;rsquo;s a powerful tool that can act as a contextual templating engine, but not a replacement for human expertise. If you&amp;rsquo;re using ChatGPT to generate job-application content, always carefully edit the outputs for accuracy and add your own voice.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;You&amp;rsquo;ve heard of &lt;a href=&#34;https://en.wikipedia.org/wiki/ChatGPT&#34;&gt;ChatGPT&lt;/a&gt;. This human-like text generation tool/chatbot can be used for pretty much anything; people are using it to write code, make (somewhat non-sequiteur) poetry, generate recipes&amp;hellip; The list of possibilities is endless.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rethinking Dependence on Dependencies</title>
+      <link>http://localhost:1313/articles/2019-03-02-rethinking-dependence/</link>
+      <pubDate>Sat, 02 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/articles/2019-03-02-rethinking-dependence/</guid>
+      <description>&lt;p&gt;This article was published on &lt;a href=&#34;https://medium.com/@kyle.mickey/rethinking-dependence-on-dependencies-d6755ad9d006&#34;&gt;medium&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;rethinking-dependence-on-dependencies&#34;&gt;Rethinking Dependence on Dependencies&lt;/h2&gt;&#xA;&lt;p&gt;Time spent programming is time spent learning; regardless of one’s opinion on coding projects for job applications, these sorts of projects are good for experimenting.&lt;/p&gt;&#xA;&lt;p&gt;Have you ever gone to start a project — even a smaller project — and run into immediate decision fatigue? Front end! Should I use React or try Vue? Do I want to use a CSS preprocessor; should I take the opportunity to flaunt some Redux; should I play with something like Pagedraw? What kind of server should I spin up? I’ve been loving .NET Core lately; nodejs is a core competency; then again I would like to write more Go…and so on. Spending time researching these choices might be beneficial, but you need to jump through this hoop to get to the next stage in the process.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A practical guide to avoid unhandled promise rejection DeprecationWarnings in Node</title>
+      <link>http://localhost:1313/articles/2018-06-07-unhandled-promise/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/articles/2018-06-07-unhandled-promise/</guid>
+      <description>&lt;p&gt;This article was published on &lt;a href=&#34;https://medium.com/@kyle.mickey/a-practical-guide-to-avoid-unhandled-promise-rejection-deprecationwarnings-in-node-f9c67634dd2b&#34;&gt;medium&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Even experienced developers sometimes miss subtle, but important, points regarding promises and unhandled rejections.&lt;/p&gt;&#xA;&lt;p&gt;Let’s say you’re working on a RESTful (ish?) API. You’ve just spent the last few hours writing a whole bunch of business logic, you have controllers calling services, and services calling repositories or data models, getting all asynchronous up in here. Everything’s humming along perfectly, until suddenly your endpoint doesn’t respond and times out. You check the logs or console outputs, and you see: &lt;code&gt;(node:127) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.&lt;/code&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

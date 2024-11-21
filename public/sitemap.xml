@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-11-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/articles/</loc>
+    <lastmod>2024-11-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/articles/2024-11-21-technical-documentation-and-architecture/</loc>
+    <lastmod>2024-11-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/articles/2023-11-09-starts-with-identity/</loc>
+    <lastmod>2023-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/articles/2023-01-16-joke-api-gpt/</loc>
+    <lastmod>2023-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/articles/2023-01-07-job-search-gpt/</loc>
+    <lastmod>2023-01-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/articles/2019-03-02-rethinking-dependence/</loc>
+    <lastmod>2019-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/articles/2018-06-07-unhandled-promise/</loc>
+    <lastmod>2018-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about-me/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/resume/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+  </url>
+</urlset>

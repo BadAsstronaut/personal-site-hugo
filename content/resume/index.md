@@ -35,7 +35,7 @@ title: Mickey's Resume
 - CI/CD administration and configuration
 - Infrastructure as Code (IaC)
 - Docker/containerization; docker-compose
-- SQL and NoSQL database administration
+- SQL and NoSQL database design and administration
 - Product implementation and engineering best practices
 
 ---
@@ -44,6 +44,7 @@ title: Mickey's Resume
 
 - bash
 - python
+- terraform
 - sql
 - javascript (typescript; node; react)
 - html/css and basic front-end skills
@@ -54,9 +55,23 @@ title: Mickey's Resume
 
 ### Professional experience
 
-**[Macroscope](https://macroscope.io)** | Boulder, CO  
-Infrastructure Engineer  
-Feb. 2022 - Jan. 2023  
+**[Uplight Inc.](https://uplight.com)** | Boulder, CO
+Senior Site Reliability Engineer, Senior Cloud Application Architect
+Feb. 2023 - Nov. 2024
+
+Monthly "Uplifter" recognition was awarded in each role I served.
+
+- Refined outcome-oriented team processes by contributing to a culture of transparency and collaboration through _documentation_
+- Mentored and trained junior engineers -- one of which got promoted to a senior role
+- Architected and implemented cloud infrastructure for an API governance product
+- Contributed to CI/CD infrastructure used by the entire organization
+- Automated and consolidated several application-level concerns into a shared service
+- Socialized design principals with the organization
+- Developed the code base and cloud architecture, with a team, for the API governance product
+
+**[Macroscope](https://macroscope.io)** | Boulder, CO
+Infrastructure Engineer
+Feb. 2022 - Jan. 2023
 
 - Pre-series-A startup environment
 - Helped design and personally implemented AWS configurations for all application and vendor services
@@ -68,9 +83,9 @@ Feb. 2022 - Jan. 2023
 
 ---
 
-**[Trimble](https://trimble.com)** | Westminster, CO  
-Systems Architect  
-Jan. 2021 - Feb. 2022  
+**[Trimble](https://trimble.com)** | Westminster, CO
+Systems Architect
+Jan. 2021 - Feb. 2022
 
 - Cloud core architect on the internal Identity team
 - Developed features for internal SSO offerings
@@ -82,8 +97,8 @@ Jan. 2021 - Feb. 2022
 - Interal platform development and delivery
 - Architected delegated IAM to Systems Manager automations to enable support teams to perform runbook automations without escalated privileges
 
-Lead Engineer, E-Tools  
-Nov. 2019 - Jan. 2021  
+Lead Engineer, E-Tools
+Nov. 2019 - Jan. 2021
 
 - Provided interal services for over 6000 internationally-distributed users
 - Oversaw systems administration on Atlassian apps; SonarQube; Artifactory
@@ -97,9 +112,9 @@ Nov. 2019 - Jan. 2021
 
 ---
 
-**[Spire Digital (now Kin + Carta)](https://www.kinandcarta.com/en-us/)** | Denver, CO  
-Tech Lead; Senior Cloud Engineer  
-Mar. 2019  Nov. 2019  
+**[Spire Digital (now Kin + Carta)](https://www.kinandcarta.com/en-us/)** | Denver, CO
+Tech Lead; Senior Cloud Engineer
+Mar. 2019  Nov. 2019
 
 - Mentored less-experienced developers
 - Ensured testing practices were met
@@ -110,9 +125,9 @@ Mar. 2019  Nov. 2019
 
 ---
 
-**[Element3Health](https://element3health.com/)** | Denver, CO  
-Senior Software Engineer  
-Oct. 2018 - Mar. 2019  
+**[Element3Health](https://element3health.com/)** | Denver, CO
+Senior Software Engineer
+Oct. 2018 - Mar. 2019
 
 - Practiced high-touch collaboration with pair-programming/TDD
 - Containerized and migrated a legacy application to AWS
@@ -121,9 +136,9 @@ Oct. 2018 - Mar. 2019
 
 ---
 
-**[Cognizant](https://www.cognizant.com/us/en)** | Boulder, CO  
-Software Engineer  
-Aug. 2017 - Oct. 2018  
+**[Cognizant](https://www.cognizant.com/us/en)** | Boulder, CO
+Software Engineer
+Aug. 2017 - Oct. 2018
 
 - Served as tech lead on a team developing proof-of-concept/prototypes
 - Containerized development and deployment environment
@@ -134,9 +149,9 @@ Aug. 2017 - Oct. 2018
 
 ---
 
-**[IHS Markit (now S&P 500)](https://www.spglobal.com/en/)** | Boulder, CO  
-Software Engineer  
-Jul. 2015 - Aug. 2017  
+**[IHS Markit (now S&P 500)](https://www.spglobal.com/en/)** | Boulder, CO
+Software Engineer
+Jul. 2015 - Aug. 2017
 
 - Worked on a service-layer node API
 - Automated CI/CD configuration for new projects
@@ -145,9 +160,9 @@ Jul. 2015 - Aug. 2017
 
 ---
 
-**[TraceGains](https://www.tracegains.com)** | Westminster, CO  
-Technical Specialist, Customer Success  
-Nov. 2013 - Jul. 2015  
+**[TraceGains](https://www.tracegains.com)** | Westminster, CO
+Technical Specialist, Customer Success
+Nov. 2013 - Jul. 2015
 
 - Automated Excel -> product database upload process via C# .COM add-in invoking web services
 - Wrote the web services integration manual
@@ -155,9 +170,9 @@ Nov. 2013 - Jul. 2015
 
 ---
 
-**[Apex Hi-Point/Sigma Cubed](https://www.apexpe.com)** | Centennial, CO  
-Technical Specialist/Technical Writer  
-Nov. 2010 - Nov. 2013  
+**[Apex Hi-Point/Sigma Cubed](https://www.apexpe.com)** | Centennial, CO
+Technical Specialist/Technical Writer
+Nov. 2010 - Nov. 2013
 
 - Wrote about highly technical, scientific concepts in a comprehensible and straightforward way
 - Worked under a scientist with teaching experience in technical writing
