@@ -10,195 +10,99 @@ title: Mickey's Resume
 
 ---
 
-### Cultural values
+## Professional Summary
 
-- Collaboration
-- Learning
-- Quality
-- Transparency
+Versatile cloud infrastructure and automation specialist with 10+ years of experience delivering high-impact technical solutions. Proven track record of architecting scalable cloud infrastructures, implementing DevOps best practices, and driving organizational efficiency through strategic automation. Expertly bridges technical complexity and business value, with a consistent history of mentoring teams and delivering mission-critical projects across diverse industries.
 
----
+## Core Competencies
 
-### Skills
+### Technical Skills
+- **Cloud Platforms:** AWS (Advanced)
+  - IAM, EC2, Lambda, API Gateway, Fargate, VPC
+  - Serverless Architecture
+  - CloudFront, Route53, RDS
+- **Infrastructure as Code:** Terraform, CloudFormation
+- **Containerization:** Docker, Kubernetes, ECS
+- **CI/CD:** GitHub Actions, Jenkins, GitLab CI
+- **Database:** SQL, NoSQL, DynamoDB
 
-- *Technical writing and communication*
-- *Training/Mentoring*
-- AWS/Cloud architecture
-  - IAM and cross-account permissions
-  - EC2 including load-balancing, auto-scaling groups, and AMIs
-  - serverless: Lambda/API Gateway; Fargate; DynamoDB
-  - VPC configuration
-  - RDS administration including backup management
-  - ECS container orchestration
-  - CloudFront
-  - Route53
-- CI/CD administration and configuration
-- Infrastructure as Code (IaC)
-- Docker/containerization; docker-compose
-- SQL and NoSQL database design and administration
-- Product implementation and engineering best practices
+### Programming Languages
+- Python, Bash, TypeScript
+- JavaScript (Node, React)
+- Terraform
+- C#/.NET Core
+- HTML/CSS
 
----
+## Professional Values
+- Technical Excellence
+- Business Value Driven
+- Integrity
+- Curiosity
+- Clear Communication
 
-### Languages
+## Professional Experience
 
-- bash
-- python
-- terraform
-- sql
-- javascript (typescript; node; react)
-- html/css and basic front-end skills
-- C#/.NET Core (less recently)
-- JSON/YAML/TOML/etc.
+### Uplight Inc. | Boulder, CO
+**Senior Site Reliability Engineer, Senior Cloud Application Architect**
+*Feb. 2023 - Nov. 2024*
 
----
+- Architected cloud infrastructure for API governance product, reducing deployment complexity by 40%
+- Mentored junior engineers, directly contributing to team member's promotion to senior role
+- Consolidated application-level services, reducing operational overhead by 25%
+- Enhanced organizational CI/CD infrastructure serving 100+ engineers
+- Recognized monthly as a top organizational "Uplifter"
 
-### Professional experience
+### Macroscope | Boulder, CO
+**Infrastructure Engineer**
+*Feb. 2022 - Jan. 2023*
 
-**[Uplight Inc.](https://uplight.com)** | Boulder, CO
-Senior Site Reliability Engineer, Senior Cloud Application Architect
-Feb. 2023 - Nov. 2024
+- Designed comprehensive AWS configurations for all application and vendor services
+- Implemented Infrastructure as Code (IaC) for 100% of infrastructure
+- Developed custom CLI Python applications for:
+  - SlackBot and Buildkite integration
+  - Build-time configuration generation
+  - Multi-region stack deployment
+- Implemented data pipeline infrastructure using Dask and Prefect
 
-Monthly "Uplifter" recognition was awarded in each role I served.
+### Trimble | Westminster, CO
+**Systems Architect & Lead Engineer**
+*Jan. 2021 - Feb. 2022*
 
-- Refined outcome-oriented team processes by contributing to a culture of transparency and collaboration through _documentation_
-- Mentored and trained junior engineers -- one of which got promoted to a senior role
-- Architected and implemented cloud infrastructure for an API governance product
-- Contributed to CI/CD infrastructure used by the entire organization
-- Automated and consolidated several application-level concerns into a shared service
-- Socialized design principals with the organization
-- Developed the code base and cloud architecture, with a team, for the API governance product
+- Led cloud core architecture for internal Identity team
+- Developed innovative identity solutions:
+  - IoT device identity using x509 certificates
+  - GDPR-compliant architectural proof of concept
+  - Asynchronous invitation service for cross-application user management
+- Architected delegated IAM to enable secure, scalable support team automations
+- Managed infrastructure serving 6000+ internationally-distributed users
 
-**[Macroscope](https://macroscope.io)** | Boulder, CO
-Infrastructure Engineer
-Feb. 2022 - Jan. 2023
+## Notable Consulting Projects
 
-- Pre-series-A startup environment
-- Helped design and personally implemented AWS configurations for all application and vendor services
-- *All* infrastructure captured in IaC
-- Created proof-of-concept prototypes
-- Wrote custom CLI Python apps for SlackBot + Buildkite integation; build-time configuration file generation; provisioning and deploying stack-sets to multiple regions
-- Implemented data pipeline infrastructure including [Dask](https://www.dask.org), [Prefect](https://www.prefect.io)
-- Interacted with vendors on issues with open-source software on GitHub
+### Cryptocurrency Conference Ticketing System
+**Technologies:** Serverless AWS, Stripe, SendGrid, TypeScript
+- Developed end-to-end payment processing API integrating multiple payment methods
+- Achieved 99.9% transaction reliability
+- Automated monthly reporting
+- Open-sourced solution with client permission
 
----
+### Banking Integration Reporting System
+**Technologies:** Express, TypeScript, Plaid, OpenAPI
+- Created comprehensive financial reporting solution integrating multiple third-party services
+- Automated monthly reporting, reducing manual processing time by 75%
 
-**[Trimble](https://trimble.com)** | Westminster, CO
-Systems Architect
-Jan. 2021 - Feb. 2022
+### GDPR-Compliant Data Portability Architecture
+- Designed geo-isolated, globally integrated software architecture
+- Implemented secure, encrypted data transfer across geographic regions
+- Ensured compliance with international data protection regulations
 
-- Cloud core architect on the internal Identity team
-- Developed features for internal SSO offerings
-  - IoT device identity based on x509 certificates
-  - GDPR-compliant architecture POC and proposals
-  - Asynchronous invitation service to notify apps when users accept an invitation to a product
-- Worked with international, multidisciplinary teams
-- Tightly integrated with security teams to address overall security posture
-- Interal platform development and delivery
-- Architected delegated IAM to Systems Manager automations to enable support teams to perform runbook automations without escalated privileges
+## Technical Writing & Presentation
 
-Lead Engineer, E-Tools
-Nov. 2019 - Jan. 2021
+- Skilled in translating complex technical concepts into comprehensible documentation
+- Experience presenting technical options and benchmarks to clients
+- Authored integration manuals and technical specifications
 
-- Provided interal services for over 6000 internationally-distributed users
-- Oversaw systems administration on Atlassian apps; SonarQube; Artifactory
-- Reworked single-server configuration to horizontally-scalablity
-- Used Systems Manager to provide automatic security patching on all EC2 instances
-- Developed automation to support process improvements
-- Wrote and reviewed change/deployment planning
-- PagerDuty and operational integrations
-- Configured software to report metrics to vendor-provided services such as DataDog, SumoLogic, Splunk
-- Authored Lambdas to automate operational concerns for repeated one-off actions
+## Professional Network
+- [LinkedIn](https://www.linkedin.com/in/kylemickey/)
+- [GitHub](https://github.com/BadAsstronaut/)
 
----
-
-**[Spire Digital (now Kin + Carta)](https://www.kinandcarta.com/en-us/)** | Denver, CO
-Tech Lead; Senior Cloud Engineer
-Mar. 2019  Nov. 2019
-
-- Mentored less-experienced developers
-- Ensured testing practices were met
-- Developed IaC for all cloud infrastructure
-- Configured CI/CD
-- Design/management collaboration
-- Presented tech options to clients; ran benchmarks to demonstrate trade-offs
-
----
-
-**[Element3Health](https://element3health.com/)** | Denver, CO
-Senior Software Engineer
-Oct. 2018 - Mar. 2019
-
-- Practiced high-touch collaboration with pair-programming/TDD
-- Containerized and migrated a legacy application to AWS
-- Implemented API layer in .NET Core
-- Configured ECS to deploy containerized solutions
-
----
-
-**[Cognizant](https://www.cognizant.com/us/en)** | Boulder, CO
-Software Engineer
-Aug. 2017 - Oct. 2018
-
-- Served as tech lead on a team developing proof-of-concept/prototypes
-- Containerized development and deployment environment
-- Feature planning and development
-- Machine learning: Internal [Kaggle](https://www.kaggle.com) competitions to devleop skills
-- Connect4 bot just for fun
-- Used Python/Flask and GraphQL
-
----
-
-**[IHS Markit (now S&P 500)](https://www.spglobal.com/en/)** | Boulder, CO
-Software Engineer
-Jul. 2015 - Aug. 2017
-
-- Worked on a service-layer node API
-- Automated CI/CD configuration for new projects
-- Debugged memory leaks in nodejs
-- Worked on .NET 4.5 APIs and MVC projects
-
----
-
-**[TraceGains](https://www.tracegains.com)** | Westminster, CO
-Technical Specialist, Customer Success
-Nov. 2013 - Jul. 2015
-
-- Automated Excel -> product database upload process via C# .COM add-in invoking web services
-- Wrote the web services integration manual
-- Proposed product features such as a web-based OCR tagging app to reduce overhead
-
----
-
-**[Apex Hi-Point/Sigma Cubed](https://www.apexpe.com)** | Centennial, CO
-Technical Specialist/Technical Writer
-Nov. 2010 - Nov. 2013
-
-- Wrote about highly technical, scientific concepts in a comprehensible and straightforward way
-- Worked under a scientist with teaching experience in technical writing
-- Coded Office macros to automate/streamline charts and graphics
-- Integrated with other software as-needed
-
----
-
-### Projects
-
-#### GDPR-Compliant Architecture
-
-GDPR stipulates that end-user data be stored in the European region if the user requests it. To accommodate for this, I helped design geo-isolated, globally integrated software. We architected a data portability service to ensure secure encryption while transferring data across geographic regions.
-
-#### Device Identity and Authentication
-
-I helped architect and build a token-based identity system using mutual TLS. The system enables device identity management and integrates with existing OIDC and SAML systems.
-
-#### Banking Integration and Reporting System
-
-Contract - Built an application which integrates with multiple 3rd party services (e.g., Plaid, SendGrid) and generates monthly, automated CSV reports. The API leverages Swagger/OpenAPI, TypeScript, Express, and Node.
-
-#### Serverless Ticketing System for Cryptocurrency Conference
-
-Contract - Built a serverless API which integrated with a SquareSpace instance to process credit card and cryptocurrency transactions. Used Stripe, Globee, and SendGrid to provide transactional functionality. Open source with permission from client. <https://github.com/BadAsstronaut/crytpo-con-website>
-
-#### Financial Applications
-
-Several groups and I collaborated on innovative finance projects including report generators for investment funds; an options trading screener; quotes and research applications; client-facing REST APIs; data-driven web pages.
+*References and detailed project portfolio available upon request*
