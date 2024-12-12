@@ -3,3 +3,10 @@ scratch
 public
 resources
 static
+build
+
+## github pages repo (used to deploy)
+badasstronaut.github.io
+
+## OS
+.DS_Store
